@@ -33,7 +33,7 @@ Well. If you have any tips you are always welcome
 
 
 <!-- Your badges -->
-[![Instagram](https://img.shields.io/badge/-cassio645__-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/cassio645_/)     [ ![Gmail](https://img.shields.io/badge/-cantonio645-c14438?style=flat&logo=Gmail&logoColor=white)](cantonio645@gmail.com) [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cassio645)
+[![Instagram](https://img.shields.io/badge/-cassio645__-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/cassio645_/)     [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@cantonio645)](mailto:mail@cantonio645) [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cassio645)
 <img height="25"   
 src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"> CASSIO645#8889
  <!-- Profile View Count -->
