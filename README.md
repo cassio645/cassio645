@@ -12,9 +12,9 @@ This is my plan for 2021.
 #### I find it impossible to study every day... and not learn nothing
 
 - 📚 **I’m learning python with:**
-		https://www.cursoemvideo.com
-		https://realpython.com/
-		 https://runestone.academy/runestone/books/published/thinkcspy/index.html
+https://www.cursoemvideo.com
+https://realpython.com/
+https://runestone.academy/runestone/books/published/thinkcspy/index.html
   Well. If you have any tips you are always welcome
 
 
