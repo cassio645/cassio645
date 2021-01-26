@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey everyone 👋
 **My name is cassio i'm from brazil 🇧🇷**
  
 This is my plan for 2021.
@@ -32,8 +32,6 @@ Well. If you have any tips you are always welcome
 
 
 <!-- Your badges -->
-
-
- [![Instagram](https://img.shields.io/badge/-cassio645__-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/cassio645_/)     [ ![Gmail](https://img.shields.io/badge/-cantonio645-c14438?style=flat&logo=Gmail&logoColor=white)](cantonio645@gmail.com) <!-- Profile View Count -->
+[![Instagram](https://img.shields.io/badge/-cassio645__-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/cassio645_/)     [ ![Gmail](https://img.shields.io/badge/-cantonio645-c14438?style=flat&logo=Gmail&logoColor=white)](cantonio645@gmail.com) <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=cassio645&style=flat)
 
