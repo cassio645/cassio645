@@ -4,14 +4,14 @@
 This is my plan for 2021.
 
 - Learn mainly how to program in python.
-- Soon I will try:
-⠀data science, django, flask, gui and machine learning, to see which one to choose.
+- Soon I will try:<br>
+⠀	data science, django, flask, gui and machine learning, to see which one to choose.
 
 
 
 #### I find it impossible to study every day... and not learn nothing
 
-- 📚 **I’m learning python with:**
+- 📚 **I’m learning python with:**<br>
 https://www.cursoemvideo.com<br>
 https://realpython.com/<br>
 https://runestone.academy/runestone/books/published/thinkcspy/index.html<br>
