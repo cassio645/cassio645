@@ -1,12 +1,12 @@
 
 # Hey everyone 👋
-**My name is cassio i'm from brazil 🇧🇷**
+**My name is Cassio i'm from brazil 🇧🇷**
  
 This is my plan for 2021.
 
 - Learn mainly how to program in python.
 - Soon I will try:<br>
-⠀	data science, django, flask, gui and machine learning, to see which one to choose.
+⠀	data science, django, flask, gui and machine learning, to see which path to choose.
 
 
 
