@@ -18,6 +18,8 @@ https://www.cursoemvideo.com<br>
 https://realpython.com/<br>
 https://runestone.academy/runestone/books/published/thinkcspy/index.html<br>
 https://www.datascienceacademy.com.br/<br>
+https://www.softblue.com.br/<br>
+https://www.w3schools.com/default.asp<br>
 Well. If you have any tips you are always welcome
 
 
