@@ -37,17 +37,14 @@ Introdução à Ciencia da Computação com Python
 
 
 <div>
-	<h3>Back End:</h3>
+	<h3>Languages and Tools</h3>
 	<img height="60" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-	<img height="65" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-	<h3>Front End(Basic):</h3>
+	<img height="70" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<h3>DataBase:</h3>
 	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-	<h3>Others:</h3>
 	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <div>
