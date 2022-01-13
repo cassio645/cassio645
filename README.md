@@ -1,27 +1,33 @@
 
 
 # Hey everyone 👋
-**My name is Cassio i'm from brazil 🇧🇷**
- 
-This is my plan for 2021.
+**My name is Cassio i'm Python Backend Developer since 2020**
 
-- Learn mainly how to program in python.
-- Soon I will try:<br>
-⠀	data science, django, flask, gui and machine learning, to see which path to choose.
+#### I took some Python courses:
+
+⠀**Curso em Vídeo**
+- https://www.cursoemvideo.com/curso/python-3-mundo-1/
+- https://www.cursoemvideo.com/curso/python-3-mundo-2/
+- https://www.cursoemvideo.com/curso/python-3-mundo-3/
+
+**Think Like a Computer Scientist**
+- https://runestone.academy/ns/books/published//thinkcspy/index.html
+
+**Introdução à Ciencia da Computação com Python**
+- https://www.coursera.org/learn/ciencia-computacao-python-conceitos
+- https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2
 
 
+<p> In 2021 I started learning Django and with that I learned the basics of HTML CSS and JavaScript, as well as a little experience using AWS to host images. </p>
 
-#### I find it impossible to study every day... and not learn nothing
+#### I made some websites:
+- **To do List:** https://tarefas645.herokuapp.com/
+- **Game:**  https://game645.herokuapp.com/
+- **CookBook:** https://receitas645.herokuapp.com/
 
-- 📚 **I’m learning python with:**<br>
-https://www.cursoemvideo.com<br>
-https://realpython.com/<br>
-https://runestone.academy/runestone/books/published/thinkcspy/index.html<br>
-https://www.datascienceacademy.com.br/<br>
-https://www.softblue.com.br/<br>
-https://www.w3schools.com/default.asp<br>
-Well. If you have any tips you are always welcome
+I am currently studying Tests with Pytest and APIs.
 
+However, I still don't have professional experience in the programming area.
 
 
 ### Languages and Tools: 
