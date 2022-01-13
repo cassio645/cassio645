@@ -1,58 +1,61 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<i class="devicon-adonisjs-original"></i>
 
+<h1> Hey everyone 👋</h1>
+<p> My name is Cassio i'm Python Backend Developer since 2020</p>
 
-# Hey everyone 👋
-**My name is Cassio i'm Python Backend Developer since 2020**
+<h3>I took some Python courses:</h3>
 
-#### I took some Python courses:
-
-⠀**Curso em Vídeo**
+Curso em Vídeo
 - https://www.cursoemvideo.com/curso/python-3-mundo-1/
 - https://www.cursoemvideo.com/curso/python-3-mundo-2/
 - https://www.cursoemvideo.com/curso/python-3-mundo-3/
+	
 
-**Think Like a Computer Scientist**
+Think Like a Computer Scientist
 - https://runestone.academy/ns/books/published//thinkcspy/index.html
 
-**Introdução à Ciencia da Computação com Python**
+Introdução à Ciencia da Computação com Python
 - https://www.coursera.org/learn/ciencia-computacao-python-conceitos
 - https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2
 
 
-<p> In 2021 I started learning Django and with that I learned the basics of HTML CSS and JavaScript, as well as a little experience using AWS to host images. </p>
 
-#### I made some websites:
-- **To do List:** https://tarefas645.herokuapp.com/
-- **Game:**  https://game645.herokuapp.com/
-- **CookBook:** https://receitas645.herokuapp.com/
+<p>In 2021 I started learning Django and with that I learned the basics of HTML CSS and JavaScript, as well as a little experience using AWS to host images.</p>
 
-I am currently studying Tests with Pytest and APIs.
-
-However, I still don't have professional experience in the programming area.
-
-
-### Languages and Tools: 
-
- <!-- icons -->
-<code><a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a></code>
-<code><a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a></code>
-
-<code><a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a></code>
-
-<code><a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a></code>
-<code><a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a></code>
+<h2>I made some websites:</h2>
+<ul>
+	<li>To do List: https://tarefas645.herokuapp.com/</li>
+	<li>Game: https://game645.herokuapp.com/</li>
+	<li>CookBook: https://receitas645.herokuapp.com/</li>
+</ul>
 
 
+<p>I am currently studying Tests with Pytest and APIs.</p>
 
-					 Thanks for Visiting!
+<p>However, I still don't have professional experience in the programming area.</p>
 
 
+<div>
+	<h3>Back End:</h3>
+	<img height="60" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+	<img height="65" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+	<h3>Front End(Basic):</h3>
+	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+	<h3>DataBase:</h3>
+	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+	<h3>Others:</h3>
+	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+	<img height="50" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<div>
 
-<!-- Your badges -->
-[![Instagram](https://img.shields.io/badge/-cassio645__-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/cassio645_/)     [![Gmail Badge](https://img.shields.io/badge/-cassio645-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cantonio645@gmail.com)](mailto:cantonio645@gmail.com) [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cassio645)
-<img height="25"   
-src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"> CASSIO645#3477
- <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=cassio645&style=flat)
-
----
-⭐️ From [cassio645](https://github.com/cassio645)
+<hr>
+<h2>Contacts</h2>
+<a href="mailto:cantonio645@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/cassio-santos-7b6501207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/cassio645_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="cassio645_" ></a>
+<a href="https://discordapp.com/users/857219600277831730/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/cassio645"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
