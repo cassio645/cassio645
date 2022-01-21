@@ -19,7 +19,8 @@ Introdução à Ciencia da Computação com Python
 - https://www.coursera.org/learn/ciencia-computacao-python-conceitos
 - https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2
 
-
+Api REST com Python e Django REST Framework
+- https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/
 
 <p>In 2021 I started learning Django and with that I learned the basics of HTML CSS and JavaScript, as well as a little experience using AWS to host images.</p>
 
