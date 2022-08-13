@@ -31,12 +31,6 @@ Api REST com Python e Django REST Framework
 	<li>CookBook: https://receitas645.herokuapp.com/</li>
 </ul>
 
-
-<p>I am currently studying Tests with Pytest and APIs.</p>
-
-<p>However, I still don't have professional experience in the programming area.</p>
-
-
 <div>
 	<h3>Languages and Tools</h3>
 	<img height="60" alight="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
