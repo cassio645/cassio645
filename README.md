@@ -41,7 +41,7 @@ Estudante de Análise e Desenvolvimento de Sistemas. Seguindo para área de Ciê
 <div style="display: inline_block" align="center">
 <h3>📩 Contacts</h3>
 <a href="mailto:cantonio645@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/cassio-santos-7b6501207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/cassio645/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/cassio645_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="cassio645_" ></a>
 <a href="https://discordapp.com/users/857219600277831730/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
