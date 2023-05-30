@@ -33,10 +33,9 @@ Estudante de Análise e Desenvolvimento de Sistemas. Seguindo para área de Ciê
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cassio645&show_icons=true&count_private=true&hide_border=true&title_color=68b5d1&icon_color=e07274&text_color=eeeeee&bg_color=0d1117" alt="Cassio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassio645&layout=compact&hide_border=true&title_color=68b5d1&text_color=eeeeee&bg_color=0d1117" />
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cassio645&bg_color=0d1117&color=fafafa&line=68b5d1&point=e07274&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cassio645&bg_color=2d2e2f&color=ffffff&line=68b5d1&point=c66668&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
-
 
 <div style="display: inline_block" align="center">
 <h3>📩 Contacts</h3>
