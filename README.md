@@ -12,8 +12,7 @@ Atualmente, estou embarcando em uma empolgante jornada na área de Ciência de D
 <div align="center">
  <h3>📈 Github Analytics</h3>
 
-<img width="40%" height="300px" src="https://github-readme-stats.vercel.app/api?username=cassio645&show_icons=true&rank_icon=github&count_private=true&hide_border=true&title_color=68b5d1&icon_color=e07274&text_color=eeeeee&bg_color=0d1117" alt="Cassio github stats" />
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassio645&size_weight=0.5&count_weight=0.5&title_color=68b5d1&text_color=eeeeee&bg_color=0d1117&hide_border=true" />
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassio645&size_weight=0.5&count_weight=0.5&title_color=68b5d1&text_color=eeeeee&bg_color=0d1117&hide_border=true" /><img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=cassio645&show_icons=true&rank_icon=github&count_private=true&hide_border=true&title_color=68b5d1&icon_color=e07274&text_color=eeeeee&bg_color=0d1117" alt="Cassio github stats" /> 
 
 
 
