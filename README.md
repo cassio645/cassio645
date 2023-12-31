@@ -29,7 +29,7 @@ Atualmente, estou embarcando em uma empolgante jornada na área de Ciência de D
 <img align="center" alt="cassio-javascript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="cassio-html" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="cassio-css" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="cassio-Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="center" alt="cassio-go" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />         
 <img align="center" alt="cassio-Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="cassio-git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />                   
 </div>
