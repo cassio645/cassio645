@@ -1,10 +1,6 @@
 <div style="display: inline_block" align="center">
 <h1>Olá eu sou Cássio 🫠​</h1>
-
-Sou estudante de Análise e Desenvolvimento de Sistemas com experiência como desenvolvedor back-end e Django. 
-
-Atualmente, estou embarcando em uma empolgante jornada na área de Ciência de Dados e Análise de Dados. 
-
+Sou estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por Python, minha linguagem principal. Fascinado por Data Science. Atualmente, estou imerso no aprendizado de Go. Comprometido em explorar novas fronteiras da programação e contribuir para projetos inovadores. 
 
 </div>
 
@@ -39,10 +35,12 @@ Atualmente, estou embarcando em uma empolgante jornada na área de Ciência de D
 <h3>📩 Contacts</h3>
 <a href="mailto:cantonio645@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/cassio645/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
+ <!--
 <a href="https://www.instagram.com/cassio645_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="cassio645_" ></a>
 <a href="https://discordapp.com/users/857219600277831730/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
-
+-->
 
 
 <div align="center">
