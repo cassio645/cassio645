@@ -1,6 +1,6 @@
 <div style="display: inline_block" align="center">
 <h1>Olá eu sou Cássio 🫠​</h1>
-Sou estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por Python, minha linguagem principal. Fascinado por Data Science. Atualmente, estou imerso no aprendizado de Go. Comprometido em explorar novas fronteiras da programação e contribuir para projetos inovadores. 
+Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 </div>
 
