@@ -14,18 +14,20 @@ Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 
 <h3>🛠️ Languages and Tools</h3>
-<img align="center" alt="cassio-python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
+<img align="center" alt="cassio-python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="cassio-python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="center" alt="cassio-go" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
+
+<img align="center" alt="cassio-django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="center" alt="cassio-pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="center" alt="cassio-numpy" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-<img align="center" alt="cassio-mysql" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-<img align="center" alt="cassio-postgtres" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
+<img align="center" alt="cassio-mysql" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-<img align="center" alt="cassio-mongo" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="center" alt="cassio-django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+
 <img align="center" alt="cassio-javascript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="cassio-html" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="cassio-css" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="cassio-go" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />         
+        
 <img align="center" alt="cassio-Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="cassio-git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />                   
 </div>
